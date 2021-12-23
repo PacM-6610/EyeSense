@@ -3,6 +3,10 @@ This document presents the project done in the context of the ME-410 class. It c
 
 The code of the protopye is C++ and the interface use Visual Studio.
 
+Prototype : 
+
+![interface](image/prototype.jpeg)
+
 Interface :
 
 ![interface](image/interface.jpeg)
