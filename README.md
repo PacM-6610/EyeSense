@@ -5,7 +5,7 @@ The code of the protopye is C++ and the interface use Visual Studio.
 
 Prototype : 
 
-![interface](image/prototype.jpeg)
+![prototype](image/prototype.jpeg)
 
 Interface :
 
