@@ -5,7 +5,7 @@ The code of the protopye is C++ and the interface use Visual Studio.
 
 Interface :
 
-![interface](image/interface.png)
+![interface](image/interface.jpeg)
 
 Team member : 
 Paco Mermoud
