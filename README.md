@@ -5,4 +5,11 @@ The code of the protopye is C++ and the interface use Visual Studio.
 
 Interface :
 
-![plot](./image/interface.png)
+![interface](./image/interface.png)
+
+Team member : 
+Paco Mermoud
+Armand Coudray
+Hugues-Albert König
+Francesca Paola Nicoletti
+Elio Ovide Sanchez
