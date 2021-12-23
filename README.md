@@ -12,8 +12,8 @@ Interface :
 ![interface](image/interface.jpeg)
 
 Team member : 
-Paco Mermoud
-Armand Coudray
-Hugues-Albert König
-Francesca Paola Nicoletti
+Paco Mermoud, 
+Armand Coudray, 
+Hugues-Albert König, 
+Francesca Paola Nicoletti, 
 Elio Ovide Sanchez
